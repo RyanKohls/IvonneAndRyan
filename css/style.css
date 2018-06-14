@@ -1186,3 +1186,8 @@ ul.entry-meta {
 .main-content.blog-w.rap,.main-content.container.blog-wrap.single-blog {
     margin-top: 80px;
 }
+
+#fatseal {
+    height: 500px;
+    width: 1600px;
+}
